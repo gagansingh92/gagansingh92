@@ -1,4 +1,4 @@
-### Hi, I'm Gagan Preet Singh! 👋
+### Hi, I'm Gagan Preet Singh! 👋 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 
 Here are some ideas to get you started:
