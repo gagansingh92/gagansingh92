@@ -1,4 +1,4 @@
-<h2>Hi, I'm Gagan Preet Singh! <img src="https://media.giphy.com/media/Vhd10uVrDjMhAG7IyV/giphy.gif" width="90">
+### <h2>Hi, I'm Gagan Preet Singh! <img src="https://media.giphy.com/media/Vhd10uVrDjMhAG7IyV/giphy.gif" width="90">
 
 
 Here are some ideas to get you started:
