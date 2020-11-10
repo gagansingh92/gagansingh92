@@ -1,4 +1,9 @@
 ## <h> Hi, I'm Gagan Preet Singh! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h>
+[![Gmail](https://img.shields.io/badge/-link.gagan92-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:link.gagan92@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-gagansingh87-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gagansingh87/)
+[![Facebook](https://img.shields.io/badge/-gagansingh91-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/gagansingh91/)](https://www.facebook.com/gagansingh91/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/gagansingh92)](https://github.com/gagansingh92)
+[![Telegram](https://img.shields.io/badge/-gagansingh92-blue?style=flat-square&logo=Telegram)](https://t.me/gagansingh92)
 
 ### <p> <em>DevOps Engineer at <a href="https://www.cybage.com/">Cyabge</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
@@ -30,12 +35,10 @@
 
 **Connect with me:**
 
-[![Gmail](https://img.shields.io/badge/-link.gagan92@gmail.com-red?style=flat-square&logo=gmail)](mailto:link.gagan92@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-gagansingh87-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gagansingh87/)](https://www.linkedin.com/in/imthepk/)
-[![Facebook](https://img.shields.io/badge/-gagansingh91-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/gagansingh91/)](https://www.facebook.com/gagansingh91/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/gagansingh92)](https://github.com/gagansingh92)
+<a href="https://www.linkedin.com/in/gagansingh87"><img align="left" alt="Gagan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://github.com/gagansingh92"><img align="left" alt="Gagan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a><a href="https://t.me/gagansingh92"><img align="left" alt="Gagan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
+<a href="https://instagram.com/gagan_singhx/"><img align="left" alt="Gagan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://www.facebook.com/gagansingh91/"><img align="left" alt="Gagan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a> 
+
 <br/>
 <br/>
-
-
-
