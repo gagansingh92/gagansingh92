@@ -1,8 +1,4 @@
-## Hi, I'm Gagan Preet Singh! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-<a href="https://www.linkedin.com/in/gagansingh87"><img align="left" alt="Gagan's Linkdein" width="10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://github.com/gagansingh92"><img align="left" alt="Gagan's Github" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a><a href="https://t.me/gagansingh92"><img align="left" alt="Gagan's Telegram" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
-<a href="https://instagram.com/gagan_singhx/"><img align="left" alt="Gagan's Instagram" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://www.facebook.com/gagansingh91/"><img align="left" alt="Gagan's Facebook" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a> 
+## <h> Hi, I'm Gagan Preet Singh! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h>
 
 ### <p> <em>DevOps Engineer at <a href="https://www.cybage.com/">Cyabge</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
@@ -40,5 +36,6 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/gagansingh92)](https://github.com/gagansingh92)
 <br/>
 <br/>
+
 
 
