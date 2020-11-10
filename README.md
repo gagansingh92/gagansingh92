@@ -4,6 +4,7 @@
 [![Facebook](https://img.shields.io/badge/-gagansingh91-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/gagansingh91/)](https://www.facebook.com/gagansingh91/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/gagansingh92)](https://github.com/gagansingh92)
 [![Telegram](https://img.shields.io/badge/-gagansingh92-blue?style=flat-square&logo=Telegram)](https://t.me/gagansingh92)
+[![Instagram](https://img.shields.io/badge/gagan_singhx-lightgrey?style=flat-square&logo=instagram)](https://www.instagram.com/gagan_singhx/)
 
 ### <p> <em>DevOps Engineer at <a href="https://www.cybage.com/">Cyabge</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
