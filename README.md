@@ -1,7 +1,6 @@
-### <h2>Hi, I'm Gagan Preet Singh! <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="90">
+### Hi, I'm Gagan Preet Singh! <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="90">
 
-
-Here are some ideas to get you started:
+## <p><em>DevOps Engineer at <a href="https://www.cybage.com/">Cyabge</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 - 🔭 I’m currently working on Kubernets, Codefresh, AWS, Graylog, Snowflake
 - 🌱 I’m currently learning Advance DevOps Tools.
