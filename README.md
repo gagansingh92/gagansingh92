@@ -25,7 +25,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Snowflake](https://img.shields.io/badge/-Snowflake-darkblue?style=flat-square&logo=Snowflake)
+![Snowflake](https://img.shields.io/badge/-Snowflake-blue?style=flat-square&logo=Snowflake)
 
 ---
 ### 🐱My Github stats:
