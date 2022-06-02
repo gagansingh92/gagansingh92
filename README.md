@@ -1,4 +1,4 @@
-## <h> Hi, I'm Gagan Preet Singh! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h>
+## <h> Hi, I'm Gagan Preet Singh! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h>
 [![Gmail](https://img.shields.io/badge/-link.gagan92-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:link.gagan92@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-gagansingh87-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gagansingh87/)
 [![Facebook](https://img.shields.io/badge/-gagansingh91-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/gagansingh91/)](https://www.facebook.com/gagansingh91/)
@@ -8,9 +8,9 @@
 
 ### <p> <em>DevOps Engineer at <a href="https://www.cybage.com/">Cyabge</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-- 🔭 I’m currently working on E-commerce based Project 💻  where i handle Docker Files, Kubernetes, Codefresh Pipeline, AWS, Graylog, Snowflake...
+- 🔭 I’m currently working on DataScience based Project 💻  where i handle AWS Architecture, Kubernetes EKS, Codefresh CI/CD Pipeline, Apache Airflow, Graylog, Snowflake...
 - 🌱 I’m currently learning Advance DevOps Tools.
-- 💬 Ask me about Docker, Kubernets, Linux, AWS...
+- 💬 Ask me about DataScience, Kubernets, Linux, AWS...
 - 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to cook, play guitar and trekking. 
 
