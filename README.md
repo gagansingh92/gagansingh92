@@ -6,7 +6,7 @@
 [![Telegram](https://img.shields.io/badge/-gagansingh92-blue?style=flat-square&logo=Telegram)](https://t.me/gagansingh92)
 [![Instagram](https://img.shields.io/badge/gagan_singhx-lightgrey?style=flat-square&logo=instagram)](https://www.instagram.com/gagan_singhx/)
 
-### <p> <em>DevOps Engineer at <a href="https://www.cybage.com/">Cyabge</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+### <p> <em>Sr.DevOps Engineer at <a href="https://www.cybage.com/">Cyabge</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 - 🔭 I’m currently working on DataScience based Project 💻  where i handle AWS Architecture, Kubernetes EKS, Codefresh CI/CD Pipeline, Apache Airflow, Graylog, Snowflake...
 - 🌱 I’m currently learning Advance DevOps Tools.
