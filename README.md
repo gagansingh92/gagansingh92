@@ -8,7 +8,7 @@
 
 ### <p> <em>Sr.DevOps Engineer at <a href="https://www.cybage.com/">Cyabge</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-- 🔭 I’m currently working on DataScience based Project 💻  where i handle AWS Architecture, Kubernetes EKS, Codefresh CI/CD Pipeline, Apache Airflow, AWS RDS, Graylog, Snowflake...
+- 🔭 I’m currently working on DataScience based Project 💻  where i handle AWS Architecture, Kubernetes EKS, Codefresh CI/CD Pipeline, Apache Airflow, AWS RDS, Graylog, Snowflake, and Automation Scripts using Py & Bash...
 - 🌱 I’m currently learning Advance DevOps Tools.
 - 💬 Ask me about DataScience, Kubernets, Linux, AWS...
 - 🥅 Goals: Contribute more to Open Source projects.
@@ -24,12 +24,24 @@
 ![Zabbix](https://img.shields.io/badge/-ZABBIX-darkred?style=flat-square&logo=Zabbix)
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-blue?style=flat-square&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-blue?style=flat-square&logo=Snowflake)
+![BASH](https://img.shields.io/badge/-BASH-gray?style=flat-square&logo=linux)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
+### ⚡ Certifications
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![ITIL](https://img.shields.io/badge/ITIL%20F_CPD-1890FF?style=for-the-badge&logo=itil&logoColor=white)
+![WES](https://img.shields.io/badge/World%20Education%20Services%20(WES)-green?style=for-the-badge&logo=itil&logoColor=white)
 
+---
 
 ### 🐱 My Github stats:
 
