@@ -1,7 +1,9 @@
 ## 👋 Hi, I'm Gagan Preet Singh!  
-**DevOps Engineer | Cloud & Data Enthusiast | Open Source Contributor**  
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h>
+**DevOps Engineer | Cloud & Data Enthusiast | Open Source Contributor**  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h>
+
 [![Gmail](https://img.shields.io/badge/-link.gagan92-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:link.gagan92@gmail.com)
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium)](https://medium.com/@link.gagan92)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/gagansingh92)
 [![Linkedin](https://img.shields.io/badge/-gagansingh87-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gagansingh87/)
 [![Facebook](https://img.shields.io/badge/-gagansingh91-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/gagansingh91/)](https://www.facebook.com/gagansingh91/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/gagansingh92)](https://github.com/gagansingh92)
@@ -46,28 +48,28 @@
 ## 🎓 Certifications  
 
 - **Project Management Institute (PMI)**  
-  - Project Management Professional (PMP)  
+  - [Project Management Professional (PMP)](https://www.credly.com/badges/efcbca79-9b6e-4d6c-9daa-3521ab19c492/public_url)  
 
 - **Google**  
-  - Project Management: Professional Certificate (Agile Project Management)  
+  - [Project Management: Professional Certificate (Agile Project Management)](https://www.coursera.org/account/accomplishments/verify/VKUQA3NQ92TY)
 
 - **AXELOS**  
-  - ITIL® 4 Foundation in IT Service Management  
+  - [ITIL® 4 Foundation in IT Service Management](https://drive.google.com/file/d/1zpxfI4tdEayIpaKovlmqsk3A7_n3AMKN/view)  
 
 - **Microsoft**  
-  - Certified: Power BI Data Analyst Associate (Exam Code: PL-300)  
+  - [Certified: Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/en-us/users/gagansingh8792/credentials/32df0b4dbb8055c5)  
 
 - **Amazon Web Services (AWS)**  
-  - Academy Graduate – Cloud Foundations (AWS Academy Program)  
-  - Solutions Architect – Associate (SAA-C03)  
-  - Solutions Architect – Professional (SAP-C02)  
-  - DevOps Engineer – Professional (DOP-C02)  
+  - [Academy Graduate – Cloud Foundations (AWS Academy Program)](https://www.credly.com/badges/0fa6ae6c-e4f1-4876-a821-b0359655b204)  
+  - [Solutions Architect – Associate (SAA-C03)](https://www.credly.com/badges/6272b066-9c23-48fe-b6bd-3afe8b570ad8)  
+  - [Solutions Architect – Professional (SAP-C02)](https://www.credly.com/badges/3700edaf-5e91-4e6d-b6e3-f8617630d5de/public_url)  
+  - [DevOps Engineer – Professional (DOP-C02)](https://www.credly.com/badges/0f6876db-0ca9-40e7-b7ac-a4034d44bb68/public_url)  
 
 - **Cloud Native Computing Foundation (CNCF)**  
-  - Certified Kubernetes Administrator (CKA)  
+  - [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/3d84f3ce-c1e2-4821-843c-3068edca5f68/public_url)  
 
 - **International Institute of Information Technology, Bangalore (IIIT-B)**  
-  - Applied Data Science
+  - Applied Data Science  
 
 
 ---
