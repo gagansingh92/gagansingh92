@@ -1,4 +1,5 @@
-## <h> Hi, I'm Gagan Preet Singh! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h>
+## 👋 Hi, I'm Gagan Preet Singh!  
+**DevOps Engineer | Cloud & Data Enthusiast | Open Source Contributor**  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h>
 [![Gmail](https://img.shields.io/badge/-link.gagan92-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:link.gagan92@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-gagansingh87-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gagansingh87/)
 [![Facebook](https://img.shields.io/badge/-gagansingh91-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/gagansingh91/)](https://www.facebook.com/gagansingh91/)
@@ -6,40 +7,67 @@
 [![Telegram](https://img.shields.io/badge/-gagansingh92-blue?style=flat-square&logo=Telegram)](https://t.me/gagansingh92)
 [![Instagram](https://img.shields.io/badge/gagan_singhx-lightgrey?style=flat-square&logo=instagram)](https://www.instagram.com/gagan_singhx/)
 
-### <p> <em>DevOps Engineer</p>
+### 🚀 About Me
+- 🔭 Working on **Data Science, ETL & Cloud projects** (AWS, Kubernetes EKS, CI/CD, Airflow, Snowflake, RDS, Graylog).  
+- ⚙️ Skilled in building and automating **ETL Data Pipelines** for large-scale analytics and reporting.  
+- 📊 Experienced with **Power BI, Pandas, NumPy, and Plotly** for data visualization and storytelling.  
+- 🌱 Continuously learning **Advanced DevOps, Cloud-Native, and Data Engineering tools**.  
+- 💬 Ask me about **AWS, Kubernetes, Linux, ETL/Data Pipelines, DevOps, and BI dashboards**.  
+- 🎯 Goal: **Contribute more to open-source projects**.  
+- ⚡ Fun fact: I love to **cook, play guitar, and go trekking**.  
 
-- 🔭 I’m currently working on DataScience based Project 💻 handling AWS Architecture, Kubernetes EKS, Codefresh CI/CD Pipeline, Apache Airflow, AWS RDS, Graylog, Snowflake, and Automation Scripts using Py & Bash...
-- 🌱 I’m currently learning Advance DevOps Tools.
-- 💬 Ask me about DataScience, Kubernets, Linux, AWS...
-- 🥅 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to cook, play guitar and trekking. 
+## ⚡ Tech Stack
 
-## ⚡ Technologies
-![Docker](https://img.shields.io/badge/-Docker-lightblue?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-lightblue?style=flat-square&logo=Kubernetes)
-![AWS](https://img.shields.io/badge/-AWS-gray?style=flat-square&logo=amazon)
-![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-square&logo=linux)
-![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira)
-![CodeFresh](https://img.shields.io/badge/-CodeFresh-lightgreen?style=flat-square&logo=mongodb)
-![Zabbix](https://img.shields.io/badge/-ZABBIX-darkred?style=flat-square&logo=Zabbix)
-![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-blue?style=flat-square&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-blue?style=flat-square&logo=Snowflake)
-![BASH](https://img.shields.io/badge/-BASH-gray?style=flat-square&logo=linux)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+**Cloud & Infrastructure**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
+
+**DevOps & CI/CD**  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Codefresh](https://img.shields.io/badge/Codefresh-%2338B2AC.svg?style=for-the-badge&logo=codefresh&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
+![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)  
+
+**Programming & Data**  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
+![Snowflake](https://img.shields.io/badge/Snowflake-%23B3E5FC.svg?style=for-the-badge&logo=snowflake&logoColor=blue)  
+
+**Monitoring & Tools**  
+![Zabbix](https://img.shields.io/badge/Zabbix-%23FF0000.svg?style=for-the-badge&logo=zabbix&logoColor=white)  
+![Graylog](https://img.shields.io/badge/Graylog-%23FF3633.svg?style=for-the-badge&logo=graylog&logoColor=white)  
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 
 ---
-### ⚡ Certifications
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![ITIL](https://img.shields.io/badge/ITIL%20F_CPD-1890FF?style=for-the-badge&logo=itil&logoColor=white)
-![WES](https://img.shields.io/badge/World%20Education%20Services%20(WES)-green?style=for-the-badge&logo=itil&logoColor=white)
+## 🎓 Certifications  
+
+- **Project Management Institute (PMI)**  
+  - Project Management Professional (PMP)  
+
+- **Google**  
+  - Project Management: Professional Certificate (Agile Project Management)  
+
+- **AXELOS**  
+  - ITIL® 4 Foundation in IT Service Management  
+
+- **Microsoft**  
+  - Certified: Power BI Data Analyst Associate (Exam Code: PL-300)  
+
+- **Amazon Web Services (AWS)**  
+  - Academy Graduate – Cloud Foundations (AWS Academy Program)  
+  - Solutions Architect – Associate (SAA-C03)  
+  - Solutions Architect – Professional (SAP-C02)  
+  - DevOps Engineer – Professional (DOP-C02)  
+
+- **Cloud Native Computing Foundation (CNCF)**  
+  - Certified Kubernetes Administrator (CKA)  
+
+- **International Institute of Information Technology, Bangalore (IIIT-B)**  
+  - Applied Data Science
+
 
 ---
 
