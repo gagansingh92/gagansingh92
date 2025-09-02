@@ -1,19 +1,16 @@
 ## 👋 Hi, I'm Gagan Preet Singh!  
-**DevOps Engineer | Cloud & Data Enthusiast | Open Source Contributor**  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h>
+**Data/DevOps Engineer | Cloud & Data Enthusiast | Open Source Contributor**  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h>
 
 [![Gmail](https://img.shields.io/badge/-link.gagan92-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:link.gagan92@gmail.com)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium)](https://medium.com/@link.gagan92)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/gagansingh92)
 [![Linkedin](https://img.shields.io/badge/-gagansingh87-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gagansingh87/)
-[![Facebook](https://img.shields.io/badge/-gagansingh91-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/gagansingh91/)](https://www.facebook.com/gagansingh91/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/gagansingh92)](https://github.com/gagansingh92)
-[![Telegram](https://img.shields.io/badge/-gagansingh92-blue?style=flat-square&logo=Telegram)](https://t.me/gagansingh92)
-[![Instagram](https://img.shields.io/badge/gagan_singhx-lightgrey?style=flat-square&logo=instagram)](https://www.instagram.com/gagan_singhx/)
 
 ### 🚀 About Me
 - 🔭 Working on **Data Science, ETL & Cloud projects** (AWS, Kubernetes EKS, CI/CD, Airflow, Snowflake, RDS, Graylog).  
 - ⚙️ Skilled in building and automating **ETL Data Pipelines** for large-scale analytics and reporting.  
-- 📊 Experienced with **Power BI, Pandas, NumPy, and Plotly** for data visualization and storytelling.  
+- 📊 Experienced with **Power BI, Pandas, NumPy, and Plotly** for data visualisation and storytelling.  
 - 🌱 Continuously learning **Advanced DevOps, Cloud-Native, and Data Engineering tools**.  
 - 💬 Ask me about **AWS, Kubernetes, Linux, ETL/Data Pipelines, DevOps, and BI dashboards**.  
 - 🎯 Goal: **Contribute more to open-source projects**.  
