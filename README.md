@@ -7,12 +7,14 @@
 [![Linkedin](https://img.shields.io/badge/-gagansingh87-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gagansingh87/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/gagansingh92)](https://github.com/gagansingh92)
 
+
 ### 🚀 About Me
 - 🔭 Working on **Data Science, ETL & Cloud projects** (AWS, Kubernetes EKS, CI/CD, Airflow, Snowflake, RDS, Graylog).  
 - ⚙️ Skilled in building and automating **ETL Data Pipelines** for large-scale analytics and reporting.  
-- 📊 Experienced with **Power BI, Pandas, NumPy, and Plotly** for data visualisation and storytelling.  
+- 📊 Experienced with **Power BI, Pandas, NumPy, and Plotly** for data visualization and storytelling.  
 - 🌱 Continuously learning **Advanced DevOps, Cloud-Native, and Data Engineering tools**.  
 - 💬 Ask me about **AWS, Kubernetes, Linux, ETL/Data Pipelines, DevOps, and BI dashboards**.  
+- 🌍 **Domain Experience:** Housing, Telecom, eCommerce, and Procurement.  
 - 🎯 Goal: **Contribute more to open-source projects**.  
 - ⚡ Fun fact: I love to **cook, play guitar, and go trekking**.  
 
