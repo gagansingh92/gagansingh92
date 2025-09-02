@@ -1,5 +1,6 @@
 ## 👋 Hi, I'm Gagan Preet Singh!  
-**DevOps Engineer | Cloud & Data Enthusiast | Open Source Contributor**  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h>
+**DevOps Engineer | Cloud & Data Enthusiast | Open Source Contributor**  
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h>
 [![Gmail](https://img.shields.io/badge/-link.gagan92-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:link.gagan92@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-gagansingh87-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gagansingh87/)
 [![Facebook](https://img.shields.io/badge/-gagansingh91-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/gagansingh91/)](https://www.facebook.com/gagansingh91/)
